@@ -14,8 +14,6 @@ numbers <- 1:100
 # 计算总和
 sum_numbers <- sum(numbers)
 
-# 输出结果
-print(paste("The sum of numbers from 1 to 100 is:", sum_numbers))
 
 ```
 
