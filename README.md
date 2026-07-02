@@ -59,10 +59,6 @@ bug_strategy    pray
 
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DearKarl&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" alt="Contribution Graph" />
 
-  <br><br>
-
-  <img width="100%" src="https://raw.githubusercontent.com/DearKarl/DearKarl/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-
 </div>
 
 ## Contribution Flow
