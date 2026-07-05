@@ -36,24 +36,6 @@ bug_strategy    pray
 
 </details>
 
-## GitHub Summary
-
-<div align="center">
-
-  <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DearKarl&theme=solarized" alt="Karl's GitHub profile summary" />
-
-  <br><br>
-
-  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DearKarl&theme=solarized" alt="Karl's top languages by repo" />
-  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DearKarl&theme=solarized" alt="Karl's top languages by commit" />
-
-  <br><br>
-
-  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DearKarl&theme=solarized" alt="Karl's GitHub summary stats" />
-  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DearKarl&theme=solarized&utcOffset=8" alt="Karl's productive time" />
-
-</div>
-
 ## Current Lab
 
 | Project | What it explores | Link |
