@@ -40,17 +40,17 @@ bug_strategy    pray
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DearKarl&theme=solarized" alt="Karl's GitHub profile summary" />
+  <img width="1000" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DearKarl&theme=solarized" alt="Karl's GitHub profile summary" />
 
   <br><br>
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DearKarl&theme=solarized" alt="Karl's top languages by repo" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DearKarl&theme=solarized" alt="Karl's top languages by commit" />
+  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DearKarl&theme=solarized" alt="Karl's top languages by repo" />
+  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DearKarl&theme=solarized" alt="Karl's top languages by commit" />
 
   <br><br>
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DearKarl&theme=solarized" alt="Karl's GitHub summary stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DearKarl&theme=solarized&utcOffset=8" alt="Karl's productive time" />
+  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DearKarl&theme=solarized" alt="Karl's GitHub summary stats" />
+  <img width="495" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DearKarl&theme=solarized&utcOffset=8" alt="Karl's productive time" />
 
 </div>
 
